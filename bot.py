@@ -7,7 +7,6 @@ import datetime
 import os
 import pickle
 from collections import defaultdict
-sys.path.append("C:\Users\TKW\Desktop\fun.py")
 import fun
 
 def main():
