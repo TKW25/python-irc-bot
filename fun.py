@@ -144,5 +144,3 @@ class functions():
 		"""
 		for x in range(len(alert_log[1])):
 			self.irc.send("PRIVMSG %s :%s IS NOW ONLINE!\r\n" % (alert_log[1][x], alert_log[0]))
-			
-	
